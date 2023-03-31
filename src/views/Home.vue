@@ -48,7 +48,7 @@
   
 <script>
 import axios from "axios";
-let domainUrl = "http://121.5.145.53:8070";
+let domainUrl = "http://43.142.128.29:8070";
 let getLastUrl = domainUrl + "/stock-industry-factor/industry/full/";
 let getIndustry = domainUrl + "/stock-industry-factor/industry/list";
 let getIndustryStockCode = domainUrl + "/stock-industry-factor/industry/stock/list/";
